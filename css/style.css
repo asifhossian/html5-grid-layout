@@ -14,7 +14,7 @@ body {
     width: 98%;
     height: 760px;
     margin: auto;
-    background-color: #ADD8E6;
+    background-color: #FFFFFF;
 }
 
 p {
@@ -27,20 +27,19 @@ p {
     width: 100%;
     height: 100px;
     margin-bottom: 1%;
-    background-color: yellow;
+    background-color: #FCD800;
 }
 
 .row2 {
 
     width: 100%;
     height: 660px;
-    background-color: hotpink;
 }
 
 .row2-col1 {
     width: 18%;
     height: 660px;
-    background-color: yellow;
+    background-color: #FCD800;
     margin-right: 1%;
     float: left;
 }
@@ -48,7 +47,6 @@ p {
 .row2-col2 {
     width: 81%;
     height: 660px;
-    background-color: violet;
     float: left;
 
 }
@@ -57,7 +55,6 @@ p {
     width: 100%;
     height: 570px;
     margin-bottom: 1%;
-    background-color: cyan;
     float: left;
 }
 
@@ -65,7 +62,7 @@ p {
     width: 84%;
     height: 570px;
     margin-right: 1%;
-    background-color: yellow;
+    background-color: #FCD800;
     float: left;
 
 }
@@ -73,7 +70,7 @@ p {
 .row2-col2-row1-col2 {
     width: 15%;
     height: 570px;
-    background-color: yellow;
+    background-color: #FCD800;
     float: left;
 
 }
@@ -81,7 +78,7 @@ p {
 .row2-col2-row2 {
     width: 100%;
     height: 80px;
-    background-color: yellowgreen;
+    background-color: #FCD800;
     float: left;
 }
 
